@@ -29,4 +29,4 @@ Please see the example projects in the solution for help using Transit.
 
 As of now, documentation is minimal. The plan is to get the code documented and then to create a more formal document for the API. Please use the examples in the solution for now as your best source for documentation and example use of the API.
 
-_NOTE: Transit is in the early stages of development. This release is stable, but expect some bugs to be present.
+_NOTE: Transit is in the early stages of development. This release is stable, but expect some bugs to be present._
