@@ -15,7 +15,7 @@ Transit can also be extended to incorporate other route types. The main containe
 
 ####Route Converters
 
-Simples scenarios let components talk to each other directly, however, more complex scenarios might have components with different types talking to each other. In these cases Transit uses a `RouteConverter`. A `RouteConverter` is the middleman in the route and informs components id their types can be converted, and also automatically does the converting of types when communication happens.
+Simples scenarios let components talk to each other directly, however, more complex scenarios might have components with different types talking to each other. In these cases Transit uses a `RouteConverter`. A `RouteConverter` is the middleman in the route and informs components if their types can be converted, and also automatically does the converting of types when communication happens.
 
 ####Controlling Route Registration
 
